@@ -1,2 +1,2 @@
 # Bunary_NN_in_forward
-weight binarization in forward for task MLP
+weight binarization Through forward phase for task MLP
